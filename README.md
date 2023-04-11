@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/61576958/231185522-3e38a7a0-b36a-4dc8-a8c2-34dac37e4320.png)
 
-# Code Outputs :
+# Alocated Projects :
 Task 1 : Otp Generator 
 
 
